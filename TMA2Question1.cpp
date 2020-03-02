@@ -1,18 +1,14 @@
-//: TMA2Question1
+
 
 /*
- Title: TMA2Question1.cpp
- Description: DVD Manegment System
- Date: Feb 08, 2013
- Author: Danny J. Cortez 2997314
- Version: 1.0
+ 
 */
 
 /*
  DOCUMENTATION
 
  Program Purpose:
- 	A program that manages DVD rental in a ìvideoî rental store.
+ 	A program that manages DVD rental in a ‚Äúvideo‚Äù rental store.
 
  Compile (assuming Cygwin is running): g++ -o TMA2_1 TMA2Question1.cpp
  Execution (assuming Cygwin is running): ./TMA2_1.exe
@@ -47,7 +43,7 @@
     10 lines.
 
  Discussion:
- 	A program that manages DVD rental in a ìvideoî rental store. Has an abstract
+ 	A program that manages DVD rental in a ‚Äúvideo‚Äù rental store. Has an abstract
  	data type that represents a DVD in this store. Has all the data and operations
  	that may be necessary for the DVD type to work well within a rental management system.
  	Includes a print() member function that displays all the information about the DVD.
