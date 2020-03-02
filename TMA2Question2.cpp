@@ -1,11 +1,8 @@
 //: TMA2Question2
 
 /*
- Title: TMA2Question2.cpp
- Description: Dynamic storage allocation example
- Date: Feb 4, 2013
- Author: Danny J. Cortez 2997314
- Version: 1.0
+
+
 */
 
 /*
@@ -36,7 +33,7 @@
  Discussion:
  	A program that dynamically creates pieces of storage of the following types using
  	new: int, long, an array of 100 chars, and an array of 100 floats. Prints the addresses
- 	and values of these using the format: ìtype @ <address>= <value>î. After the addresses and
+ 	and values of these using the format: ‚Äútype @ <address>= <value>‚Äù. After the addresses and
  	values have been printed, frees the storage using delete. Fills the char array using
  	copies of the lowercase and uppercase alphabet (a-z, A-Z), and fills the float array using
  	sequential numbers starting with 101.
