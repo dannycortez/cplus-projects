@@ -1,18 +1,11 @@
-//: TMA2Question2
-
-/*
-
-
-*/
-
 /*
  DOCUMENTATION
 
  Program Purpose:
  	Dynamic storage allocation example.
 
- Compile (assuming Cygwin is running): g++ -o TMA2_2 TMA2Question2.cpp
- Execution (assuming Cygwin is running): ./TMA2_2.exe
+ Compile (assuming Cygwin is running): g++ -o d\d_storage d_storage.cpp
+ Execution (assuming Cygwin is running): ./d_dstorage.exe
 
  Classes: none
 
@@ -91,11 +84,11 @@ int main ()
     cout << "Deleted long" << endl;
 
 
-    /**** Char ****/
-    //for (int i = 0; i < 100; i ++)
-    //{
-      //  c[i] = '*';
-    //}
+    **** Char ****/
+    for (int i = 0; i < 100; i ++)
+    {
+        c[i] = '*';
+    }
     c[0] = {'*'};
 
 
