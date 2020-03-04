@@ -1,8 +1,7 @@
 
-
 /*
  
-*/
+A small program to manage a DVD store
 
 /*
  DOCUMENTATION
@@ -10,8 +9,8 @@
  Program Purpose:
  	A program that manages DVD rental in a “video” rental store.
 
- Compile (assuming Cygwin is running): g++ -o TMA2_1 TMA2Question1.cpp
- Execution (assuming Cygwin is running): ./TMA2_1.exe
+ Compile (assuming Cygwin is running): g++ -o DVD.cpp
+ Execution (assuming Cygwin is running): ./DVD.exe
 
  Classes: none
 
