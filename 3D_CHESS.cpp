@@ -1,7 +1,7 @@
 /*
 
 DANNY CORTEZ 3D CHESS
-SEE FILE FOR REUSLT
+Program that creates a 3D chess match
 
 */
 
