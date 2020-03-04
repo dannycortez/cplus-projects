@@ -1,4 +1,4 @@
-
+//finds the intersect with a line and a plane
 
 
 #include "stdafx.h"
