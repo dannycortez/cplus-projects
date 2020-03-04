@@ -1,12 +1,8 @@
 
-/* Athabasca University
+/* 
 
-   Comp390 - Introduction to Computer Graphics
-
-  TME 1 - PROGRAM 2
   Danny Cortez
-  2997314
-  April 25/17
+
 */
 
 
