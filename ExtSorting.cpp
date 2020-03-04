@@ -1,9 +1,6 @@
 /*
  Title: ExtSorting.cpp
- Assignment # 4 Q2
  Description: Simulates General Multiway External Mergesort
- Date: March 31/18
- Author: Danny J. Cortez 6774141
  Version: 1.0
 */
 
